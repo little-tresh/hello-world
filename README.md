@@ -1,2 +1,2 @@
 # hello-world
-a normal repository
+a normal repository already texted
